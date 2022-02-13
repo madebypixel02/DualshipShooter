@@ -10,7 +10,10 @@
 
 ## Game Details
 
-Topic: *duality ☯️*
+- Name: *DualshipShooter*
+- Languages: *c#*
+- Engine: *Unity*
+- Topic: *duality ☯️*
 
 Visit the [Game Site](https://globalgamejam.org/2022/games/dualship-shooter-9) for all the details of our game
 
