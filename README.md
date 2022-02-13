@@ -1,6 +1,6 @@
 # DualshipShooter | 42 Madrid
 
-*Our Global Game Jam 2022 'duality' game :space_invader:*
+*Our Global Game Jam 2022 'duality' game ☯️ 👾*
 
 <p align="center">
   <a href="https://globalgamejam.org/">
@@ -13,7 +13,7 @@
 - Name: *DualshipShooter*
 - Languages: *c#*
 - Engine: *Unity*
-- Topic: *duality ☯️*
+- Topic: *duality*
 
 Visit the [Game Site](https://globalgamejam.org/2022/games/dualship-shooter-9) for all the details of our game
 
@@ -34,4 +34,4 @@ You can play the game on your favorite web brower with mouse and keyboard. Play 
 - [slucas-s](https://github.com/S-LucasSerrano)
 - [aperez-b](https://github.com/madebypixel02)
 
-Jan 30th, 2022
+January 30th, 2022
