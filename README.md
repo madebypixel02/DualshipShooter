@@ -17,6 +17,10 @@
 
 Visit the [Game Site](https://globalgamejam.org/2022/games/dualship-shooter-9) for all the details of our game
 
+## Source Code
+
+To view the actual code of the game, check the [releases](https://github.com/madebypixel02/DualshipShooter/releases)
+
 ## Demo
 
 <p align="center">
